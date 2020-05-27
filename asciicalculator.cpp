@@ -28,7 +28,7 @@ int main(){
 			str = main[i];
 			ass = (char)str;
 
-			cout << "ASCII is for digit " << i << " is: " << ass << endl;
+			cout << "ASCII for digit " << i << " is: " << ass << endl;
 		}
 	}
 
